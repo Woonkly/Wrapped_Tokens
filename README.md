@@ -35,4 +35,15 @@ Ethereum Mainnet
 https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
 
 
+Source code of wrapped tokens:
+
+https://github.com/Woonkly/Wrapped_Tokens/blob/main/wAVAX.sol
+
+https://github.com/Woonkly/Wrapped_Tokens/blob/main/wbnb.sol
+
+https://github.com/Woonkly/Wrapped_Tokens/blob/main/weth9.sol
+
+
+
+
 
